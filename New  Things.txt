@@ -1,0 +1,9 @@
+New things I learned in this Project 
+1 Setup and use of MongoDb cluster in the Project
+2 To use Express routes and to arrange them in different folders according to the routes definition 
+  and handler function.
+3 To create a mongoDb schema and put that schema into the mongoDb object
+
+4 - Important  How to add styles in js and add it into the java script files using material using
+    and make styles and useStyles
+
